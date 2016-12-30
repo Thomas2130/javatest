@@ -55,6 +55,7 @@ public class HalloWelt {
 		// sysout + strg + space
 		System.out.println("Test");
 		System.out.println("Test 2");
+		System.out.println("Test 3");
 
 		
 		// other templates are placed under Window->References->Java->Editor->Templates
