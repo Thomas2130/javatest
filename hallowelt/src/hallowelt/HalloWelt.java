@@ -56,6 +56,8 @@ public class HalloWelt {
 		System.out.println("Test");
 		System.out.println("Test 2");
 		
+		System.out.println("Test");
+		
 		// other templates are placed under Window->References->Java->Editor->Templates
 
 		// strg + umschalt + t: search
